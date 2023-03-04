@@ -3,11 +3,10 @@ layout: single
 title: 인사말
 categories: introduce
 tag: [정보, 인사, 자기소개]
-toc: true
 search: false
 ---
 <div class = "notice--info">
-<h4>[공지!] 반가워요!! </h4>
+<b>[공지!] 반가워요!! </b>
 <ul>
     <li> 굿굿 </li>
 </ul>
