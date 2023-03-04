@@ -4,6 +4,7 @@ title: 인사말
 categories: introduce
 tag: [정보, 인사, 자기소개]
 toc: true
+search: false
 ---
 # 작성배경
 - 블로그 작성에 앞서 자기 소개를 하려고 해요~
