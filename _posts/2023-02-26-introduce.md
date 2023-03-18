@@ -5,12 +5,6 @@ categories: introduce
 tag: [정보, 인사, 자기소개]
 search: false
 ---
-<div class = "notice--info">
-<b>[공지!] 반가워요!! </b>
-<ul>
-    <li> 굿굿 </li>
-</ul>
-</div>
 
 {{ site.url }}
 # 작성배경
